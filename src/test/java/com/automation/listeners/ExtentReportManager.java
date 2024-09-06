@@ -45,9 +45,9 @@ public class ExtentReportManager {
     public static String takeScreenShot() {
         TakesScreenshot screenshot = (TakesScreenshot) DriverManager.getDriver();
         File file = screenshot.getScreenshotAs(OutputType.FILE);
-        Random num=new Random();
-        int n=num.nextInt();
-        String path = "src/test/resources/screenshots/screenshot"+n+".png";
+        Random num = new Random();
+        int n = num.nextInt(100);
+        String path = "src/test/resources/screenshots/screenshot" + n + ".png";
         try {
             FileUtils.copyFile(file, new File(path));
         } catch (IOException e) {

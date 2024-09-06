@@ -4,32 +4,201 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ec0df94-0725-46a0-af14-9f68ab009421" name="Changes" comment="" />
+    <list default="true" id="3ec0df94-0725-46a0-af14-9f68ab009421" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtentReport/extentReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/listeners/ExtentReportManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/listeners/ExtentReportManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/LoginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/properties/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/properties/test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/runner/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/runner/test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/screenshots/screenshot-1533682791.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/screenshots/screenshot-617336163.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Suprith2001&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Suprith2001/Foundation-TestNGAutomation.git&quot;,
+    &quot;accountId&quot;: &quot;b2495289-9ad7-45f0-9057-2fcb7472c3e9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2kBjkndldYcZNFqAGjGpqx2LwET" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/USTModule2/Foundation-TestNGAutomation/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.Foundation-TestNGAutomation [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Foundation-TestNGAutomation [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.AddRemoveCartTest.verifyUserIsAbleToAddItemToTheCart.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AddRemoveCartTest.verifyUserIsAbleToRemoveItemFromTheCart.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/USTModule2/Foundation-TestNGAutomation/src/test/resources/runner/test.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/USTModule2/Foundation-TestNGAutomation/src/test/resources/runner/testRunner.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CartTest.verifyUserIsAbleToAddItemToTheCart.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.verifyUserIsAbleToLoginWithValidCredentials.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/USTModule2/Foundation-TestNGAutomation/src/test/resources/runner&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/USTModule2/Foundation-TestNGAutomation/src/main/java/org/example/Main.java&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\USTModule2\Foundation-TestNGAutomation\src\test\resources\runner" />
+      <recent name="C:\USTModule2\Foundation-TestNGAutomation\src\test\java\com\automation\listeners" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.automation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.AddRemoveCartTest.verifyUserIsAbleToAddItemToTheCart">
+    <configuration name="AddRemoveCartTest.verifyUserIsAbleToAddItemToTheCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Foundation-TestNGAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.AddRemoveCartTest" />
+      <option name="METHOD_NAME" value="verifyUserIsAbleToAddItemToTheCart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddRemoveCartTest.verifyUserIsAbleToRemoveItemFromTheCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Foundation-TestNGAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.AddRemoveCartTest" />
+      <option name="METHOD_NAME" value="verifyUserIsAbleToRemoveItemFromTheCart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/USTModule2/Foundation-TestNGAutomation/src/test/resources/runner/testRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Foundation-TestNGAutomation" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/runner/testRunner.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="com.automation.listners.ExtentListener" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/USTModule2/Foundation-TestNGAutomation/src/test/resources/runner/test.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Foundation-TestNGAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/runner/test.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.verifyUserIsAbleToLoginWithValidCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Foundation-TestNGAutomation" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.automation.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.LoginTest" />
+      <option name="METHOD_NAME" value="verifyUserIsAbleToLoginWithValidCredentials" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="com.automation.listeners.ExtentListener" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.AddRemoveCartTest.verifyUserIsAbleToAddItemToTheCart" />
+      <item itemvalue="TestNG.AddRemoveCartTest.verifyUserIsAbleToRemoveItemFromTheCart" />
+      <item itemvalue="TestNG.C:/USTModule2/Foundation-TestNGAutomation/src/test/resources/runner/testRunner.xml" />
+      <item itemvalue="TestNG.C:/USTModule2/Foundation-TestNGAutomation/src/test/resources/runner/test.xml" />
+      <item itemvalue="TestNG.LoginTest.verifyUserIsAbleToLoginWithValidCredentials" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AddRemoveCartTest.verifyUserIsAbleToAddItemToTheCart" />
+        <item itemvalue="TestNG.C:/USTModule2/Foundation-TestNGAutomation/src/test/resources/runner/test.xml" />
+        <item itemvalue="TestNG.AddRemoveCartTest.verifyUserIsAbleToRemoveItemFromTheCart" />
+        <item itemvalue="TestNG.LoginTest.verifyUserIsAbleToLoginWithValidCredentials" />
+        <item itemvalue="TestNG.C:/USTModule2/Foundation-TestNGAutomation/src/test/resources/runner/testRunner.xml" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
